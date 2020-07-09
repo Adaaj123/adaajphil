@@ -1,2 +1,2 @@
 # adaajphil
-Aspiring to be an expert in HTML
+Aspiring to be an expert in HTML.
